@@ -1,0 +1,72 @@
+.bg-pink {
+    background-color: palevioletred;
+}
+.bg-blue {
+    background-color: blue;
+}
+.bg-purple {
+    background-color: purple;
+}
+.bg-yellow {
+    background-color: yellow;
+}
+.bg-yellowgreen {
+    background-color: yellowgreen;
+}
+.bg-red {
+    background-color: red;
+}
+.bg-babypink {
+    background-color: pink;
+}
+.bg-violet {
+    background-color: blueviolet;
+}
+.bg-indigo {
+    background-color: indigo;
+}
+.bg-black {
+    background-color: black;
+}
+.bg-white {
+    background-color: white;
+}
+.bg-babyblue {
+    background-color: paleturquoise;
+}
+.div-size-heigh {
+    height: 250px;
+}
+.div-size-square {
+    width: 100px;
+    height: 100px;
+}
+.circle {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%
+}
+.circle-purple {
+    width: 500px;
+    height: 500px;
+    background: indigo;
+    border-radius: 50%
+}
+.circle-pink {
+    width: 500px;
+    height: 500px;
+    background: palevioletred;
+    border-radius: 50%
+}
+.padding {
+    padding-top: 200px;
+}
+.padding1 {
+    padding-top: 110px;
+}
+.text {
+    color: white;
+}
+.mid{
+    align-items: center;
+}

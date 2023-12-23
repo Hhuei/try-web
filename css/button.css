@@ -1,0 +1,22 @@
+.button1 {
+    width: 400px;
+    height: 200px;
+    border-radius: 45%;
+}
+.btn-violet:hover {
+    background-color: blueviolet;
+    color: plum;
+}
+.btn-pink:hover {
+    background-color: palevioletred;
+    color: pink;
+}
+.btn-primary:active {
+    background-color: blue;
+    color: aqua;
+    border: 0;
+}
+.btn-primary:focus {
+    background-color: blueviolet;
+    color: plum;
+}
